@@ -20,8 +20,7 @@ Base project for lab assignment 1
 
 (Index): The code for the HTML  
 hn.js?XmeMkOgGRBw9auMJ1Y7Q: Has the code of the javascript that is load on the HTML document   
-news.css?XmeMkOgGRBw9auMJ1Y7Q: Load the format for the HTML document, type of letter, color, what happens if someone press a link   
-				how will look on android, etc    
+news.css?XmeMkOgGRBw9auMJ1Y7Q: Load the format for the HTML document, type of letter, color, what happens if someone press a link how will look on android, etc    
 Gif: Images loaded on the HTML, for example, the arrow in every row and the Y on the top of the table    
 
 ## 3. Network
