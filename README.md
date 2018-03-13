@@ -3,17 +3,17 @@ Base project for lab assignment 1
 
 ## 1. Elements Tab
 
-"head" In this case the element include meta information, links and the title of the document on the browser
-"body" Contains all the information for the display of the document, such as format, hyperlinks, tables, etc
-"center" Align the contents at the center of the page
-"table" Define the HTML table of the page
-"tbody" Has the HTML content of the table
-"tr" Define that the element is a row of the table
-"td" Define the cell where I´m working, with formats and size
-"a" Reference the hyperlink to the element
-"img" Define an image inside HTML document
-"span" Is use to concatenate elements with same format: For example "(" & hiperlinlk & ")"
-"script" Load the script, in this case Javascrip from an external source
+"head" In this case the element include meta information, links and the title of the document on the browser  
+"body" Contains all the information for the display of the document, such as format, hyperlinks, tables, etc  
+"center" Align the contents at the center of the page  
+"table" Define the HTML table of the page  
+"tbody" Has the HTML content of the table  
+"tr" Define that the element is a row of the table  
+"td" Define the cell where I´m working, with formats and size  
+"a" Reference the hyperlink to the element  
+"img" Define an image inside HTML document  
+"span" Is use to concatenate elements with same format: For example "(" & hiperlinlk & ")"  
+"script" Load the script, in this case Javascrip from an external source  
 
 
 ## 2. Sources
